@@ -10,6 +10,7 @@ enrollments – links students to the courses they take
 
 This small project helped me understand how primary keys, foreign keys, relationships, and JOIN queries work in a real database.
 It’s a beginner-friendly SQL project that demonstrates:
+
 ✔ Database creation
 ✔ Table design
 ✔ Data insertion
